@@ -1,0 +1,1 @@
+This is an Android aplication to help studants to get better results at their univercity courses.
