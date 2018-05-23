@@ -1,0 +1,19 @@
+﻿<resources>
+    <string name="app_name">APP STUDY PLANNING</string>
+<string name="navegation_drawer_open">Abrir gaveta de navegação</string>
+<string name="navegation_drawer_close">Fechar gaveta de navegação</string>
+<string name="btn_cadastro">Cadastros</string>
+<string name="btn_cadastro_novo">Novo Cadastro</string>
+<string name="btn_cadastro_listar">Listar Cadastros</string>
+<string name="btn_sobre">Sobre</string>
+<string name="btn_sair">Sair</string>
+<string name="btn_salvar">Salvar</string>
+<string name="btn_cancelar">Cancelar</string>
+<string name="btn_inicio">Início</string>
+<string name="btn_login">Login</string>
+<string name="btn_materias">Matérias</string>
+<string name="btn_ver_prova">Ver Provas Marcadas</string>
+<string name="btn_registrar_prova">Registrar Dia de Prova</string>
+<string name="btn_ver_materia">Ver Matérias</string>
+<string name="btn_inserir_materia">Inserir Nova Matéria</string>
+</resources>

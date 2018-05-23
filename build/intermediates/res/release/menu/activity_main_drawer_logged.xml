@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+<item
+android:id="@+id/nav_prova"
+android:icon="@android:drawable/ic_menu_agenda"
+android:title="Provas" />
+<item
+android:id="@+id/nav_materia"
+android:icon="@android:drawable/ic_menu_preferences"
+android:title="@string/btn_materias"/>
+<item
+android:id="@+id/nav_sair"
+android:icon="@android:drawable/ic_menu_preferences"
+android:title="@string/btn_sair" />
+
+
+</group>
+</menu><!-- From: file:/C:/android-gradle/app_tads/src/main/res/menu/activity_main_drawer_logged.xml -->
